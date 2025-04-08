@@ -46,7 +46,7 @@ class toDoList {
             }
 
         }
-        System.out.println("Goodbye!");
+        System.out.println("Goodbye! See You Soon.");
 
     }
 
